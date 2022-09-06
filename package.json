@@ -1,0 +1,15 @@
+{
+  "name": "redom-base",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "redom": "^3.29.1"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
